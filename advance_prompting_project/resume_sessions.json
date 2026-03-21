@@ -1,0 +1,68 @@
+[
+  {
+    "title": "AI",
+    "target_role": "Gen AI engineer",
+    "resume_text": "i am an B.Tech gradtuate from Robotics and AI",
+    "job_text": "i am an B.Tech gradtuate from Robotics and AI .",
+    "match_score": 100,
+    "resume_keywords": [
+      "graduate",
+      "robotics"
+    ],
+    "job_keywords": [
+      "graduate",
+      "robotics"
+    ],
+    "exact_matches": [
+      "graduate",
+      "robotics"
+    ],
+    "fuzzy_matches": [],
+    "matched_keywords": [
+      "graduate",
+      "robotics"
+    ],
+    "missing_keywords": []
+  },
+  {
+    "title": "GEN ai",
+    "target_role": "GEN ai engineer",
+    "resume_text": "i am yami from Robotics And AI with an knowledge in python , AI and hands on experience with real time projects",
+    "job_text": "i am yami from Robotics And AI with an knowledge in python , AI and hands on experience with real time projects",
+    "match_score": 100,
+    "resume_keywords": [
+      "hand",
+      "python",
+      "real",
+      "robotics",
+      "time",
+      "yami"
+    ],
+    "job_keywords": [
+      "hand",
+      "python",
+      "real",
+      "robotics",
+      "time",
+      "yami"
+    ],
+    "exact_matches": [
+      "hand",
+      "python",
+      "real",
+      "robotics",
+      "time",
+      "yami"
+    ],
+    "fuzzy_matches": [],
+    "matched_keywords": [
+      "hand",
+      "python",
+      "real",
+      "robotics",
+      "time",
+      "yami"
+    ],
+    "missing_keywords": []
+  }
+]
