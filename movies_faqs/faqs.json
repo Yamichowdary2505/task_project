@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is a good action movie to watch?",
+        "answer": "Some great action movies are: John Wick, Mad Max Fury Road, The Dark Knight, and Mission Impossible series."
+    },
+    {
+        "question": "What are the best sci-fi movies?",
+        "answer": "Top sci-fi movies include: Interstellar, The Matrix, Inception, Arrival, and Blade Runner 2049."
+    },
+    {
+        "question": "What is a good comedy movie?",
+        "answer": "Popular comedy movies include: The Grand Budapest Hotel, Superbad, Game Night, and The Nice Guys."
+    },
+    {
+        "question": "What are the best horror movies?",
+        "answer": "Top horror movies are: Get Out, Hereditary, A Quiet Place, The Conjuring, and IT."
+    },
+    {
+        "question": "What is a good romantic movie?",
+        "answer": "Great romantic movies include: The Notebook, La La Land, Crazy Rich Asians, and About Time."
+    },
+    {
+        "question": "What are the best animated movies?",
+        "answer": "Top animated movies are: Spirited Away, The Lion King, Toy Story, Spider-Man Into the Spider-Verse, and Coco."
+    },
+    {
+        "question": "What is a good thriller movie?",
+        "answer": "Great thriller movies include: Gone Girl, Se7en, Parasite, Knives Out, and Prisoners."
+    },
+    {
+        "question": "What are the best movies of all time?",
+        "answer": "Some of the greatest movies of all time are: The Godfather, Schindlers List, The Shawshank Redemption, Pulp Fiction, and 12 Angry Men."
+    },
+    {
+        "question": "What is a good movie for family?",
+        "answer": "Great family movies include: The Incredibles, Finding Nemo, Home Alone, Paddington, and Matilda."
+    },
+    {
+        "question": "What are the best superhero movies?",
+        "answer": "Top superhero movies are: Avengers Endgame, The Dark Knight, Spider-Man No Way Home, Iron Man, and Black Panther."
+    }
+]
